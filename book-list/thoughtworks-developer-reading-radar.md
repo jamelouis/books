@@ -2,4 +2,4 @@
 
 # 基础篇
 
-* [Test-Driven Development By Example](computer-books/test-driven-development-by-example.md)<<测试驱动开发>>
+* [Test-Driven Development By Example](../computer-books/test-driven-development-by-example.md)<<测试驱动开发>>
