@@ -7,7 +7,7 @@
 * [Clean Code(代码整洁之道)]()
 * [Pragmatic Unit Testing(单元测试知道)]()
 * [The Productive Programmer(卓有成效的程序员)]()
-* [Test-Driven Development By Example(测试驱动开发)](computer-books/test-driven-development-by-example.md)
+* [Test-Driven Development By Example(测试驱动开发)](../computer-books/test-driven-development-by-example.md)
 * [Clean Coder(程序员的职业修养)]()
 * [The Art of Readable Code(编写可读代码的艺术)]()
 
@@ -53,7 +53,7 @@
 * [User Stories Applied(用户故事与敏捷方法)]()
 * [The Gold Mine(金矿)]()
 * [Scrum and XP From theTrenhes(硝烟中的Scrum和XP)]()
-* [Continuous Integration(持续集成)](computer-books/continuous-integration.md)
+* [Continuous Integration(持续集成)](../computer-books/continuous-integration.md)
 * [Extreme Programming Explained(解析极限编程)]()
 
 ## 进阶篇
